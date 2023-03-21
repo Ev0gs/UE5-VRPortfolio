@@ -1,6 +1,7 @@
 # UE5-VRPortfolio
-This project show a sample of mechanics I implemented during my internship on an ArchiViz project.
-All these game mechanics can be found in the Content/ArchiViz folder
+This project show a sample of mechanics I implemented during my internship on an ArchiViz project.\
+All these game mechanics can be found in the **Content/ArchiViz** folder.\
+If you want to experience all of these in VR you only need to start in the scene "LVL_TestDynamicTexture" with your VR headset.
 
 ## Dynamic texture tool
 This tool can be used by pointing to an object which contain the blueprint BP_SpawnFurnitureSwitchableMat. This object will, then, be highlighted to show player that he can use the tool. Finally, you can push the VR Trigger to switch on all materials.
